@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponComponentInfoBlob>
+    <Infos>
+        <Item type="CWeaponComponentInfo">
+            <Name>COMPONENT_AT_AR_FLSH1</Name> <!-- Nama komponen flashlight -->
+            <Model>w_at_ar_flsh</Model> <!-- Model untuk flashlight -->
+            <LocName>WCT_FLASH</LocName> <!-- Lokalisasi nama flashlight -->
+            <LocDesc>WCD_FLASH</LocDesc> <!-- Lokalisasi deskripsi flashlight -->
+            <AttachBone>AAPFlsh</AttachBone> <!-- Bone untuk flashlight -->
+            <WeaponAttachBone>WAPFlsh</WeaponAttachBone> <!-- Weapon bone untuk flashlight -->
+            <AccuracyModifier type="NULL"/> <!-- Tidak ada efek akurasi -->
+            <DamageModifier type="NULL"/> <!-- Tidak ada efek kerusakan -->
+            <bShownOnWheel value="true"/> <!-- Tampilkan di roda pemilihan -->
+            <CreateObject value="true"/> <!-- Buat objek -->
+            <HudDamage value="0"/> <!-- Tidak memengaruhi kerusakan di HUD -->
+            <HudSpeed value="0"/> <!-- Tidak memengaruhi kecepatan di HUD -->
+            <HudCapacity value="0"/> <!-- Tidak memengaruhi kapasitas di HUD -->
+            <HudAccuracy value="0"/> <!-- Tidak memengaruhi akurasi di HUD -->
+            <HudRange value="0"/> <!-- Tidak memengaruhi jangkauan di HUD -->
+        </Item>
+    </Infos>
+    <InfoBlobName/>
+</CWeaponComponentInfoBlob>
